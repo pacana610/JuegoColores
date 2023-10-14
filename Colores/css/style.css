@@ -1,0 +1,44 @@
+#numero{
+    font-size: 30px;
+    position: relative;
+    top: 20px;
+    left: 600px;
+}
+#box1, #box2, #box3
+{
+border: 3px black solid;
+width: 300px;
+height: 300px;
+float: left;
+margin: 20px;
+position: relative;
+left: 50px;
+top: 100px;
+}
+section {
+    width: 1000px;
+}
+#reset {
+    border: 1px black solid;
+    position: relative;
+    left: 950px;
+    bottom: 100px;
+    
+}
+#aciertos{
+    font-size: 30px;
+    position: relative;
+    left: 500px;
+    top: 35px;
+}
+#colores {
+    border: 3px black solid;
+    background-color: aqua;
+    width: 1200px;
+    height: 600px;
+    position: relative;
+    left: 400px;
+    
+    
+}
+
